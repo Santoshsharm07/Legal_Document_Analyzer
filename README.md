@@ -178,12 +178,4 @@ MISC: Intellectual Property Act
 
 ---
 
-## 🤝 Contributing
-
-PRs are welcome! For major changes, open an issue first to discuss what you’d like to improve.
-
----
-
-## 📜 License
-
-MIT License © 2025 [Your Name]  
+ 
