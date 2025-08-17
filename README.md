@@ -1,4 +1,5 @@
 # ⚖️ Legal Document Analyzer
+https://github.com/Santoshsharm07/Legal_Document_Analyzer/blob/main/image.png?raw=true
 
 A complete end-to-end project for **summarizing legal documents** and **extracting key entities (persons, organizations, locations, etc.)**.  
 
