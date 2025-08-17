@@ -50,8 +50,8 @@ legal-doc-analyzer/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/legal-doc-analyzer.git
-cd legal-doc-analyzer
+git clone https://github.com/Santoshsharm07/Legal_Document_Analyzer.git
+cd Legal_Document_Analyze
 ```
 
 ### 2. Create a virtual environment  
